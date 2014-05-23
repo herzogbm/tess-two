@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">JavaOCR Demo app</string>
+    <string name="title_activity_ocr_demo">OcrDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="text_gray_scale">Gray Scale</string>
+    <string name="text_binary">Binary</string>
+    <string name="text_segment">Segment</string>
+    <string name="text_load">Load</string>
+    <string name="text_original">Original</string>
+
+</resources>
